@@ -8,9 +8,9 @@
   ## 👋 Hello! Welcome to my GitHub profile 👋
 </div>
 
-<div align = "center">
+<div>
   
-  ### I've Used
+  ###  I've Used
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -29,7 +29,10 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
 
+
 <div align = "center">
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limsungjong)](https://github.com/anuraghazra/github-readme-stats)
+  <p>
+    
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limsungjong&show_icons=true&theme=one_dark_pro) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limsungjong&theme=one_dark_pro)](https://github.com/limsungjong/github-readme-stats)
+  </p>
 </div>
