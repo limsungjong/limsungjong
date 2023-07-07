@@ -28,3 +28,8 @@
   <img src="https://img.shields.io/badge/Git Hub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
+
+<div align = "center">
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limsungjong)](https://github.com/anuraghazra/github-readme-stats)
+</div>
