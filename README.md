@@ -34,7 +34,7 @@
 <div align = "center">
   <p>
     
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limsungjong&show_icons=true&theme=one_dark_pro) 
+  ![limsungjong GitHub stats](https://github-readme-stats-theta-three-72.vercel.app/api?username=limsungjong&show_icons=true&theme=one_dark_pro) 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limsungjong&theme=one_dark_pro)](https://github.com/limsungjong/github-readme-stats)
   </p>
 </div>
