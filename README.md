@@ -10,12 +10,8 @@
   Spring FrameWork using Java is the main tech. 💪  </br>
   I like the front side and it is Fun, so i'm also learning JavaScript and React 😎
   
-  
-  I'm 
-  #### 🎵 Music 🎵 </br>
-  #### ☕ Coffee ☕ </br>
-  #### 🍔 Hamburger 🍔 </br>
-  #### 🎮 Game 🎮
+  I enjoy 🎵 <strong>music</strong>, like ☕ <strong>coffee</strong>, and love 🍔 <strong>hamburgers</strong> </br>
+  😃 I'm always have positive and challenging 🔥
 ***
 </div>
 
