@@ -3,12 +3,17 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20to%20SungJong%20GitHub%20👋&fontSize=35&animation=twinking&fontAlignY=40&fontAlign=65)
 </div>
 
-<div align = "center">
+<div>
   
-  ## I like this
-  🎵 music 🎵 </br>
-  🍔 hamburger 🍔 </br>
-  🎮 Game 🎮
+  ## 🙌 About Me 🙌
+  Hi there! I'm Lim Sung Jong, a Web Developer.
+  
+  
+  I'm 
+  #### 🎵 Music 🎵 </br>
+  #### ☕ Coffee ☕ </br>
+  #### 🍔 Hamburger 🍔 </br>
+  #### 🎮 Game 🎮
 ***
 </div>
 
@@ -33,13 +38,4 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git Hub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-</div>
-
-
-<div align = "center">
-  <p>
-    
-  ![limsungjong GitHub stats](https://github-readme-stats-theta-three-72.vercel.app/api?username=limsungjong&show_icons=true&theme=one_dark_pro) 
-  [![Top Langs](https://github-readme-stats-theta-three-72.vercel.app/api/top-langs/?username=limsungjong&theme=one_dark_pro)](https://github.com/limsungjong/github-readme-stats)
-  </p>
 </div>
