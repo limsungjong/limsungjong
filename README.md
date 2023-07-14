@@ -6,7 +6,9 @@
 <div>
   
   ## 🙌 About Me 🙌
-  Hi there! I'm Lim Sung Jong, a Web Developer.
+  👋 Hi there! I'm Lim Sung Jong, the <strong>Web Developer.</strong> </br>
+  Spring FrameWork using Java is the main tech. 💪  </br>
+  I like the front side and it is Fun, so i'm also learning JavaScript and React 😎
   
   
   I'm 
