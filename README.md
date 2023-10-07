@@ -4,7 +4,7 @@
 </div>
 
 <div>
-  <h1>Van Introduce : :point_right: <a href="https://limsungjong.github.io/">Van Portfolio</a></h1>
+  <h1>Van Introduce : :point_right: <a target="_blank" href="https://limsungjong.github.io/">Van Portfolio</a></h1>
 </div>
 <div>
   
